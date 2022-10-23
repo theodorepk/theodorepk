@@ -4,7 +4,7 @@
 - 📫 How to reach me at theodore.perron.kyritsos@gmail.com
 
 
-### Some Project:
+### Some Projects:
 
 - A copy of Vinted: https://tpk-vinted.netlify.app/
   - [Back-end](https://github.com/theodorepk/vinted-back)
