@@ -6,7 +6,7 @@
 
 ### Some Projects:
 
-- Replica Vinted: https://tpk-vinted.netlify.app/
+- A copy of Vinted: https://tpk-vinted.netlify.app/
   - [Back-end](https://github.com/theodorepk/vinted-back)
   - [Front-end](https://github.com/theodorepk/vinted-front)
 
