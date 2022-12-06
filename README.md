@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me at theodore.perron.kyritsos@gmail.com
+- 📫 How to reach me : theodore.perron.kyritsos@gmail.com
 
 
 ### Some Projects:
 
-- A copy of Vinted: https://tpk-vinted.netlify.app/
+- A copy of Vinted : https://tpk-vinted.netlify.app/
   - [Back-end](https://github.com/theodorepk/vinted-back)
   - [Front-end](https://github.com/theodorepk/vinted-front)
 
-- A Marvel web site: https://tpk-marvel.netlify.app/
+- A Marvel web site : https://tpk-marvel.netlify.app/
   -  [Back-end](https://github.com/theodorepk/marvel_back-end)
   -  [Front-end](https://github.com/theodorepk/marvel_front-end)
 
